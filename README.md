@@ -8,9 +8,9 @@ move source code to the specific location and change the config file according t
 
 Run following command on your terminal: 
 
-First to Download the source code to the local machine for further analysis: 
+- 1. First to Download the source code to the local machine for further analysis: 
 $ python aliasloginjoiner.py 5d6522e3fa8c4fd03f7f70d8ac3c10e09bf7aebf
 
 
-Second Find the indicated metrics from downloaded GitHub source code: 
+- 2. Second Find the indicated metrics from downloaded GitHub source code: 
 $ python main.py 
