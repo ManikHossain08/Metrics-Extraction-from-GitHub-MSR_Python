@@ -2,7 +2,7 @@
 The main task of the tool is extract metrics (e.g., #commits, #tags, #authors etc from the projects) from GitHub projects according to the settings that are related to the people i.e. the number of the developer in the project, the number of commits per project, the number of commits per developer in a project and so on using Python
 
 # Steps to run the tool
-open acanoda/PyCharm editor
+open anaconda/PyCharm editor
 
 move source code to the specific location and change the config file according to your directory.
 
