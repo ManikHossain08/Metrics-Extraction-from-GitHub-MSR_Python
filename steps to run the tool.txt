@@ -1,0 +1,14 @@
+Steps to run the network tool:
+
+open acanoda/PyCharm editor
+
+move source code to the specific location and change the config file according to your directory.
+
+Run following command: 
+
+First to Download the source code to the local machine for further analysis: 
+$ python aliasloginjoiner.py 5d6522e3fa8c4fd03f7f70d8ac3c10e09bf7aebf
+
+
+Second Find the indicated metrics from downloaded GitHub source code: 
+$ python main.py 
